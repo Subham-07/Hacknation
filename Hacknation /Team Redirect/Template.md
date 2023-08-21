@@ -23,9 +23,9 @@
  
 
 ## Use Cases of your project
+Help in find solution but with community driven approach.
+
+## Team Members : Subham Behera, CH Sagar, CH Lokesh Reddy, Ayush Patra
 
 
-## Team Members
-
-
-## References
+## References : Stack Overflow
