@@ -1,12 +1,12 @@
-## Team Name 
-## Project Name
+## Team Name : Team Redirect
+## Project Name : Ask-us
 
 
-## Domain
+## Domain : Fintech
 
 
 
-## Link to your repository
+## Link to your repository : https://github.com/Subham-07/Ask-Us
 
 
 ## About Project
